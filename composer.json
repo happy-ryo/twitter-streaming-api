@@ -5,13 +5,18 @@
         "spatie",
         "twitter-streaming-api"
     ],
-    "homepage": "https://github.com/spatie/twitter-streaming-api",
+    "homepage": "https://github.com/happy-ryo/twitter-streaming-api",
     "license": "MIT",
     "authors": [
         {
             "name": "Freek Van der Herten",
             "email": "freek@spatie.be",
             "homepage": "https://spatie.be",
+            "role": "Developer"
+        },
+        {
+            "name": "happy_ryo",
+            "email": "iwama.ryo.0731@gmail.com",
             "role": "Developer"
         }
     ],
